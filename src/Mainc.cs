@@ -3,13 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace home.linuxenv.EATM.src
+namespace EATM
 {
     public class Mainc
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello and welcome to Amirul's Bank and Finance!");
+            Console.WriteLine("Welcome to Amirul Finance Business. What could we do for you today?");
+            Console
             
         }
     }

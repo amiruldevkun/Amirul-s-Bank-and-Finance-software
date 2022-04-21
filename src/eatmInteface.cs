@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace home.linuxenv.EATM.src
+namespace EATM
 {
     public class eatmInteface
     {
