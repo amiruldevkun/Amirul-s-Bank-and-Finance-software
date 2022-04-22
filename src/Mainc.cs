@@ -43,7 +43,7 @@ namespace EATM
             }
         }
         public class enquiries {
-            public void enquired() {
+            public void imp() {
                 Console.WriteLine("1. Deposit");
                 Console.WriteLine("2. Withdraw");
                 Console.WriteLine("3. Balance Inquiry");
