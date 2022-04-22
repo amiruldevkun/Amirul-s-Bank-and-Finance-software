@@ -1,6 +1,6 @@
 .vscode/
 bin/
-obj
+obj/
 *.so
 linux-build/
 windows-build/
