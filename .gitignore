@@ -1,0 +1,7 @@
+.vscode/
+bin/
+obj
+*.so
+linux-build/
+windows-build/
+*EATM.db
